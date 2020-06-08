@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Neroslow\Desktop\Лаб. 31\Лаб. 31\Source.cpp(1,10): fatal error C1083: Не удается открыть файл включение: glut.h: No such file or directory,
+  Лаб. 30.cpp
+C:\Users\Neroslow\Desktop\Лаб. 31\Лаб. 31\Header.h(2,10): fatal error C1083: Не удается открыть файл включение: glut.h: No such file or directory,
+  Создание кода...
