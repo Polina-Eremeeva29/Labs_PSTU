@@ -1,0 +1,21 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (._Лаб. 31.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Graph.cpp
+D:\Лаб. 31\Лаб. 31\Graph.h(315,24): warning C4091: extern : пропускается слева от "vertCoord", когда ни одна переменная не объявлена
+D:\Лаб. 31\Лаб. 31\Graph.cpp(73,15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\Лаб. 31\Лаб. 31\Graph.cpp(74,15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\Лаб. 31\Лаб. 31\Graph.cpp(109,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Лаб. 31\Лаб. 31\Graph.h(81,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Лаб. 31\Лаб. 31\Graph.h(80): message : во время компиляции функции-члена класс шаблон "int Graph<int>::GetVertPos(const T &)"
+          with
+          [
+              T=int
+          ]
+D:\Лаб. 31\Лаб. 31\Graph.h(166): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<int>::GetVertPos(const T &)"
+          with
+          [
+              T=int
+          ]
+D:\Лаб. 31\Лаб. 31\Graph.h(62): message : во время компиляции функции-члена класс шаблон "Graph<int>::Graph(void)"
+D:\Лаб. 31\Лаб. 31\Graph.cpp(13): message : выполняется компиляция ссылки на экземпляр шаблон функции "Graph<int>::Graph(void)"
+D:\Лаб. 31\Лаб. 31\Graph.cpp(13): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<int>"
+  Лаб. 31.vcxproj -> D:\Лаб. 31\Debug\Лаб. 31.exe
